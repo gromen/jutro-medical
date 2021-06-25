@@ -18,17 +18,10 @@ function App() {
     <Router>
       <ApolloProvider client={client}>
         <div className='App'>
-          <header className='App-header'>
-            <nav>
-              <Link to='/'>Home</Link>
-              <Link to='/continents'>Continents</Link>
-            </nav>
-          </header>
-
           <Switch>
             <Route exact path='/' component={Home} />
             <Route path='/continents' component={Continents} />
-            <Route path='/continents/:code' children={<Continent />} />
+            <Route path='/continents/:code' component={Continent} />
           </Switch>
         </div>
       </ApolloProvider>
