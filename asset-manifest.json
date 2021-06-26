@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jutro-medical/static/css/main.8c899f8a.chunk.css",
+    "main.js": "/jutro-medical/static/js/main.86b1a73a.chunk.js",
+    "main.js.map": "/jutro-medical/static/js/main.86b1a73a.chunk.js.map",
+    "runtime-main.js": "/jutro-medical/static/js/runtime-main.ac32ed00.js",
+    "runtime-main.js.map": "/jutro-medical/static/js/runtime-main.ac32ed00.js.map",
+    "static/js/2.d91152e6.chunk.js": "/jutro-medical/static/js/2.d91152e6.chunk.js",
+    "static/js/2.d91152e6.chunk.js.map": "/jutro-medical/static/js/2.d91152e6.chunk.js.map",
+    "static/js/3.8a0251ac.chunk.js": "/jutro-medical/static/js/3.8a0251ac.chunk.js",
+    "static/js/3.8a0251ac.chunk.js.map": "/jutro-medical/static/js/3.8a0251ac.chunk.js.map",
+    "index.html": "/jutro-medical/index.html",
+    "static/css/main.8c899f8a.chunk.css.map": "/jutro-medical/static/css/main.8c899f8a.chunk.css.map",
+    "static/js/2.d91152e6.chunk.js.LICENSE.txt": "/jutro-medical/static/js/2.d91152e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac32ed00.js",
+    "static/js/2.d91152e6.chunk.js",
+    "static/css/main.8c899f8a.chunk.css",
+    "static/js/main.86b1a73a.chunk.js"
+  ]
+}
